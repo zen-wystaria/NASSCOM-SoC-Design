@@ -1,6 +1,6 @@
 # NASSCOM Digital VLSI SoC Design and Planning Workshop
 
-> A 5-day hands-on workshop combining theory and practical labs using open-source EDA tools for full-chip SoC design — from RTL to GDSII.
+> A hands-on workshop combining theory and practical labs using open-source EDA tools for full-chip SoC design — from RTL to GDSII.
 
 ---
 
