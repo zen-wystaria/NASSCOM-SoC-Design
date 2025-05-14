@@ -1,4 +1,4 @@
-# 🔩 NASSCOM Digital SoC Design and Planning Workshop (Sky130 PDK)
+# NASSCOM Digital SoC Design and Planning Workshop (Sky130 PDK)
 
 > A 5-day hands-on workshop combining theory and practical labs using open-source EDA tools for full-chip SoC design — from RTL to GDSII.
 
